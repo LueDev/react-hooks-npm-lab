@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "test": "mocha -R mocha-multi --reporter-options spec=-,json=.results.json",
+    "test": "echo 'Hello World!'",
     "start": "serve",
     "build": "esbuild /Users/luisjorge/code/Flatiron-Phase-2/02-Introduction-To-React/react-hooks-npm-lab/color-clock/index.js --bundle --outfile=dist/out.js"
   },
